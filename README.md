@@ -1,6 +1,6 @@
 # Roughness of Molecular Property Landscapes and Its Impact on Modellability
 
-This repo contains the Jupyther Notebooks used to obtain the results presented in the paper [Roughness of Molecular Property Landscapes and Its Impact on Modellability](#).
+This repo contains the Jupyther Notebooks used to obtain the results presented in the paper [Roughness of Molecular Property Landscapes and Its Impact on Modellability](https://arxiv.org/abs/2207.09250).
 
 ## Requirements
 In addition to `python>=3.7` and common scientific libraries (e.g., `scipy`, `numpy`, `pandas`, `matplotlib`), these packages are required to be able to run the notebooks:
